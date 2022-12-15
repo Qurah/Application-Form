@@ -1,0 +1,92 @@
+@import url('https:fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Raleway&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{background-color: white;}
+h2{text-align: center;
+    color:white;
+    margin: 15px;
+    font-size: 130%;
+    text-transform: uppercase;
+font-family: "Raleway", sans-serif;}
+p{ font-family: Verdana, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+form{
+    text-align: center;
+    color: white;
+    font-family: "Raleway", sans-serif;
+}
+button{
+    border:0px;
+    border-radius: 5px;
+    width: 30%;
+    color:white;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 15px 0;
+}
+tbody{font-weight: 400;
+    font-size: 100%;
+    font-family: Verdana, Tahoma, sans-serif;
+    color:white;
+    border: 100% solid rgb(87, 80, 80);
+    border-radius: 5px;
+    
+}
+td{
+    padding-left: 600px ;
+    padding-right: 400px;
+    font-size: 120%;
+}
+input{
+    border: 3px solid rgb(211, 201, 201);
+    border-radius:5px;
+    width: 20%;
+    margin-top: 20px;
+    font-weight: 200;
+    padding: 15px 10px;
+    background-color: rgb(115, 11, 11);
+    font-size: 110%;
+}
+hr{
+    margin: 10px;
+}
+.main-form{
+    padding: 10px 0px;
+    width: 100%;
+    height: auto;
+    background-color: rgba(115, 11, 11);
+
+}
+#gender{
+    padding:15px 200px 0px 0px;
+    color: white;
+    font-size: 110%;
+}
+#info{
+    padding: 15px 500px;
+    color: white;
+    text-transform: uppercase;
+    font-size: large;
+
+}
+#submit-button{
+    background-color: black;
+    color: white;
+    border: black;
+}
+#file{
+    color: white;
+    padding-top: 15px;
+    font-size:120%;
+}
+#gendertype{
+    padding-right: 500px
+}
